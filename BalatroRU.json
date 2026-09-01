@@ -1,0 +1,15 @@
+{
+    "id": "BalatroRU",
+    "name": "Balatro RU (Alternative)",
+    "author": [
+        "YourName"
+    ],
+    "description": "Alternative Russian localization for Balatro.",
+    "prefix": "ruloc",
+    "main_file": "BalatroRU.lua",
+    "version": "0.1.0",
+    "dependencies": [
+        "Steamodded (>=1.*)"
+    ],
+    "conflicts": []
+}
