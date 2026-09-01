@@ -1,6 +1,6 @@
 SMODS.Language {
     key = 'ru',
-    label = 'Русский (альт.)',
+    label = 'Русский',
     font = {
         file = 'Handjet-Bold.ttf',
         render_scale = G.TILESIZE * 10,
