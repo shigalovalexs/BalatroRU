@@ -20,4 +20,4 @@
 
 ## Лицензия
 
-Шрифт Handjet распространяется по лицензии SIL Open Font License — см. [assets/fonts/OFL.txt](assets/fonts/OFL.txt).
+Шрифт [Handjet](https://github.com/rosettatype/handjet) распространяется по лицензии SIL Open Font License — см. [assets/fonts/OFL.txt](assets/fonts/OFL.txt).
