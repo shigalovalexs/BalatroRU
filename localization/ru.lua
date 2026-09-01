@@ -3846,9 +3846,9 @@ return {
             },
         },
         poker_hands={
-            ["Five of a Kind"]="Пять одинаковых",
+            ["Five of a Kind"]="Покер",
             Flush="Флеш",
-            ["Flush Five"]="Флеш-пять",
+            ["Flush Five"]="Покер-флеш",
             ["Flush House"]="Флеш-хаус",
             ["Four of a Kind"]="Каре",
             ["Full House"]="Фулл-хаус",
