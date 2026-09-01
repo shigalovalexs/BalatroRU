@@ -10,5 +10,9 @@ SMODS.Language {
         squish = 1,
         DESCSCALE = 1,
     },
-    loc_key = 'en',
+    button = 'Отзыв о языке',
 }
+
+G.FUNCS.loc_survey = function(e)
+    love.system.openURL("https://github.com/shigalovalexs/BalatroRU/issues")
+end
